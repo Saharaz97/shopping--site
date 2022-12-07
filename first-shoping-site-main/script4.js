@@ -72,5 +72,6 @@ function createProductList(productList){
 
 
 function addnum(a,b){
-    
+    return a+b;
 }
+addnum(2,3)
