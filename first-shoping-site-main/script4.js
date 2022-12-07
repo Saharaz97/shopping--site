@@ -3,6 +3,9 @@ function  createProduct() {
     const productHTML = document.createElement("div");
     productHTML.classList.add ("product");
     productHTML.setAttribute('id', 'product');
+
+
+
     return productHTML;
     
 }
@@ -75,3 +78,5 @@ function addnum(a,b){
     return a+b;
 }
 addnum(2,3)
+
+asdasdasdasdasdasdasd
