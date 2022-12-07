@@ -71,12 +71,3 @@ function createProductList(productList){
     }    
     return productListElement;
 }
-
-
-
-function addnum(a,b){
-    return a+b;
-}
-addnum(2,3)
-
-asdasdasdasdasdasdasd
